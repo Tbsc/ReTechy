@@ -1,6 +1,6 @@
 [
 {
-  "modid": "ReTechy",
+  "modid": "retechy",
   "name": "ReTechy",
   "description": "Rewrite of Techy, a simple tech mod for practice",
   "version": "${version}",
