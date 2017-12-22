@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ReTechy",
+  "name": "ReTechy",
+  "description": "Rewrite of Techy, a simple tech mod for practice",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tbsc"],
+  "credits": "Tbsc for making it",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
